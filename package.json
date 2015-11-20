@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -15,6 +16,7 @@
     "babel-preset-react": "^6.1.18",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
-    "webpack": "^1.12.6"
+    "webpack": "^1.12.6",
+    "webpack-dev-server": "^1.12.1"
   }
 }
