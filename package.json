@@ -1,8 +1,12 @@
 {
-  "name": "workshop2",
+  "name": "react-workshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "React.js Workshop Sample Code",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdulsattar/react-workshop.git"
+  },
   "scripts": {
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
