@@ -1,1 +1,0 @@
-alert('Welcome to React.js Workshop. Your setup is done!');
